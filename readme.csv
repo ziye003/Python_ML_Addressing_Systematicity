@@ -1,0 +1,61 @@
+Variable,Description
+candidate_id,Unique ID for each applicant
+application_status,"Application Status. ""Hired"" indicates a successful application to a role"
+number_of_employees_log,Log of the number of employees at given company
+occupation_id,Unique ID for each role.
+company_id,Unique ID for each company
+occupation_skill_1_count,Count of skills associated with attribute for given role
+occupation_skill_2_count,Count of skills associated with attribute for given role
+occupation_skill_3_count,Count of skills associated with attribute for given role
+occupation_skill_4_count,Count of skills associated with attribute for given role
+occupation_skill_5_count,Count of skills associated with attribute for given role
+occupation_skill_6_count,Count of skills associated with attribute for given role
+occupation_skill_7_count,Count of skills associated with attribute for given role
+occupation_skill_8_count,Count of skills associated with attribute for given role
+occupation_skill_9_count,Count of skills associated with attribute for given role
+candidate_attribute_1,Attribute of applicant
+candidate_attribute_2,Attribute of applicant
+application_attribute_1,Attribute of application
+candidate_demographic_variable_1,Demographic variable of applicant
+candidate_demographic_variable_2,Demographic variable of applicant
+candidate_demographic_variable_3,Demographic variable of applicant
+candidate_demographic_variable_4,Demographic variable of applicant
+ethnicity,Demographic variable of applicant
+gender,Demographic variable of applicant
+candidate_demographic_variable_5,Demographic variable of applicant
+candidate_demographic_variable_6,Demographic variable of applicant
+candidate_demographic_variable_7,Demographic variable of applicant
+candidate_demographic_variable_8,Demographic variable of applicant
+candidate_demographic_variable_9,Demographic variable of applicant
+candidate_demographic_variable_10,Demographic variable of applicant
+age,Attribute of applicant
+candidate_attribute_3,Attribute of applicant
+candidate_attribute_4,Attribute of applicant
+candidate_attribute_5,Attribute of applicant
+candidate_attribute_6,Attribute of applicant
+candidate_attribute_7,Attribute of applicant
+candidate_interest_1,Attribute of applicant
+candidate_interest_2,Attribute of applicant
+candidate_interest_3,Attribute of applicant
+candidate_interest_4,Attribute of applicant
+candidate_interest_5,Attribute of applicant
+candidate_interest_6,Attribute of applicant
+candidate_interest_7,Attribute of applicant
+candidate_interest_8,Attribute of applicant
+candidate_attribute_8,Count of personal achievements from applicant's application
+number_years_feature_1,Attribute of applicant
+number_years_feature_2,Attribute of applicant
+number_years_feature_3,Attribute of applicant
+number_years_feature_4,Attribute of applicant
+number_years_feature_5,Attribute of applicant
+candidate_skill_1_count,Count of skills within applicant's CV related to attribute
+candidate_skill_2_count,Count of skills within applicant's CV related to attribute
+candidate_skill_3_count,Count of skills within applicant's CV related to attribute
+candidate_skill_4_count,Count of skills within applicant's CV related to attribute
+candidate_skill_5_count,Count of skills within applicant's CV related to attribute
+candidate_skill_6_count,Count of skills within applicant's CV related to attribute
+candidate_skill_7_count,Count of skills within applicant's CV related to attribute
+candidate_skill_8_count,Count of skills within applicant's CV related to attribute
+candidate_skill_9_count,Count of skills within applicant's CV related to attribute
+candidate_relative_test_1,Attribute of applicant. Performance on test relative to school of origin
+candidate_relative_test_2,Attribute of applicant. Performance on test relative to school of origin
